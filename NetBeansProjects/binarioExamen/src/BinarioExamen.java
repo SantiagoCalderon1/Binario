@@ -19,7 +19,8 @@ public class BinarioExamen {
         if (n <= 2) {
             System.out.print(n);
         } else {
-            
+            decBin(n / 2);
+            System.out.print(n ^ 2);
         }
     }
 
