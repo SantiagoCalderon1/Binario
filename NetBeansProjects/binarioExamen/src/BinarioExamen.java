@@ -48,5 +48,6 @@ public class BinarioExamen {
           y fallaba ^ en el metodo decBIn y lo cambié por % que así si sería
           correcto
         */
+        
     }
 }
